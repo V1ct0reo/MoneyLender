@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LendMeUp", "LendMeUp\LendMeUp.csproj", "{620368ED-2872-42BF-8F8F-8B480AE19803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620368ED-2872-42BF-8F8F-8B480AE19803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620368ED-2872-42BF-8F8F-8B480AE19803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620368ED-2872-42BF-8F8F-8B480AE19803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620368ED-2872-42BF-8F8F-8B480AE19803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B27D0A4-32E7-48AF-8A59-F99E125EA53C}
+	EndGlobalSection
+EndGlobal
