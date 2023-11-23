@@ -43,6 +43,7 @@ namespace LendMeUp.DataStorage
 
             string json = JsonSerializer.Serialize(transactions, new JsonSerializerOptions { WriteIndented = true });
             File.WriteAllText(PathToFile, json);
+            Console.WriteLine("updated File @ " + PathToFile);
         }
     }
 }
